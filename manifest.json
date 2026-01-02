@@ -1,0 +1,11 @@
+{
+    "display_name": "Macros in BNF",
+    "loading_order": 1998,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "author": "CasualAutopsy",
+    "version": "1.0.0",
+    "homePage": "https://github.com/CasualAutopsy/SillyTavern-Macros-in-BNF",
+    "auto_update": false
+}
